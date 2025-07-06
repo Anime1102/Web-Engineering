@@ -1,0 +1,10 @@
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+tfoot{
+    text-align: left;
+    font-weight: bold;
+}
